@@ -1,2 +1,2 @@
 # VoiceAssistant
-Developing a Voice Assistant using pyton and wiht the help of various packages.
+Developing a Voice Assistant using python and with the help of various python libraries.
